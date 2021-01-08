@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\user\documents\visual studio 2015\projects\newassignment\newassignment\source.cpp(398): warning C4101: 'flag': unreferenced local variable
+c:\users\user\documents\visual studio 2015\projects\newassignment\newassignment\source.cpp(505): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  newassignment.vcxproj -> C:\Users\user\documents\visual studio 2015\Projects\newassignment\Debug\newassignment.exe
+  newassignment.vcxproj -> C:\Users\user\documents\visual studio 2015\Projects\newassignment\Debug\newassignment.pdb (Partial PDB)
